@@ -1,0 +1,65 @@
+// RES - Russian
+// Author: Cole
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+	{"rhsgref_uniform_reed", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_vsr", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_alpenflage", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_flecktarn", {__ICE_gear_allRoles}},
+	{"rhsgref_uniform_tigerstripe", {__ICE_gear_allRoles}},
+		
+	// Sniper
+	{"U_I_FullGhillie_ard", {__ICE_gear_Sniper}},
+	{"U_I_FullGhillie_lsh", {__ICE_gear_Sniper}},
+	{"U_I_FullGhillie_sard", {__ICE_gear_Sniper}},
+	
+	// Diver
+	{"B_CombatUniform_TB_CZ_vz95_woodland", {__ICE_gear_Diver}},
+
+// VESTS
+	
+	// Infantry
+	{"rhs_6sh92", {__ICE_gear_Inf}},
+	{"rhs_6sh92_vog", {__ICE_gear_Grenadier}},
+	{"rhs_6sh92_radio", {__ICE_gear_SL}},
+	
+	// Sniper/Pilot/Crewman
+	{"rhs_vydra_3m", {__ICE_gear_Sniper, __ICE_gear_Crewman, __ICE_gear_Pilot}},
+	
+	// Diver	
+	{"V_PlateCarrier1_rgr", {__ICE_gear_Diver}},
+
+// GLASSES	
+	{"G_Bandanna_oli", {__ICE_gear_Diver}},
+	{"rhs_scarf", {__ICE_gear_Diver}},
+	{"G_Bandanna_blk", {__ICE_gear_Diver}},
+	{"G_Bandanna_beast", {__ICE_gear_Diver}},
+	{"G_Bandanna_khk", {__ICE_gear_Diver}},
+	{"G_Bandanna_tan", {__ICE_gear_Diver}},
+	
+// HELMETS
+	
+	// Infantry
+
+	{"H_Shemag_olive", {__ICE_gear_allRoles}},
+	{"rhsusf_Bowman", {__ICE_gear_Diver}},
+	
+	// Crewman	
+	{"rhs_tsh4", {__ICE_gear_Crewman}},
+	
+	{"H_Bandanna_cbr", {__ICE_gear_allRoles}},
+	{"rhs_beanie_green", {__ICE_gear_allRoles}},
+	{"H_Bandanna_camo", {__ICE_gear_allRoles}},
+	{"rhs_beanie", {__ICE_gear_allRoles}},
+	{"H_Watchcap_dfl", {__ICE_gear_allRoles}},
+	{"H_Watchcap_fle", {__ICE_gear_allRoles}},
+	{"H_Watchcap_flo", {__ICE_gear_allRoles}},
+
+	
+	// Pilot
+	{"rhs_zsh7a_mike", {__ICE_gear_Pilot}}
+};

@@ -1,0 +1,58 @@
+// RUS - Marines (EMR-Summer)
+// Author: Cole
+
+uniforms[] =
+{
+// UNIFORMS
+	
+	// Infantry
+	{"B_CombatUniform_TB_UA_Pixel", {__ICE_gear_allRoles}},
+		
+	// Sniper
+	{"U_O_FullGhillie_ard", {__ICE_gear_Sniper}},
+	{"U_O_FullGhillie_lsh", {__ICE_gear_Sniper}},
+	{"U_O_FullGhillie_sard", {__ICE_gear_Sniper}},
+		
+	// Pilot
+	{"rhs_uniform_df15", {__ICE_gear_Pilot}},
+	
+	// Diver
+	{"U_O_Wetsuit", {__ICE_gear_Inf}},
+
+// VESTS
+	
+	// Infantry
+	{"V_PlateCarrier1_rgr", {__ICE_gear_allRoles}},
+	{"V_PlateCarrier1_rgr", {__ICE_gear_infantryRoles}},
+	{"V_PlateCarrier1_rgr", {__ICE_gear_Rifleman}},
+	{"V_PlateCarrier1_rgr", {__ICE_gear_Medic}},
+	{"V_PlateCarrier1_rgr", {__ICE_gear_Grenadier}},
+	{"V_PlateCarrier1_rgr", {__ICE_gear_CombatEngineer}},
+	{"V_PlateCarrier1_rgr", {__ICE_gear_SL}},
+	{"V_PlateCarrier1_rgr", {__ICE_gear_Sniper}},
+	{"V_PlateCarrier1_rgr", {__ICE_gear_Crewman}},
+		
+	// Pilot
+	{"rhs_vydra_3m", {__ICE_gear_Pilot}},
+	
+	// Diver
+	{"V_RebreatherIR", {__ICE_gear_Inf}},
+
+// HELMETS
+	
+	// Infantry
+	{"H_HelmetIA_ua_pixel", {__ICE_gear_Inf}},
+	{"H_MilCap_mcamo", {__ICE_gear_Inf}},
+	{"rhs_Booniehat_ocp", {__ICE_gear_Marksman, __ICE_gear_Sniper}},
+		
+	// Crewman
+	{"rhs_tsh4", {__ICE_gear_Crewman}},
+		
+	// Pilot
+	{"rhs_zsh7a_mike", {__ICE_gear_Pilot}},
+	
+// GLASSES
+	
+	{"rhs_balaclava", {__ICE_gear_allRoles}},
+	{"G_Bandanna_oli", {__ICE_gear_allRoles}}
+};

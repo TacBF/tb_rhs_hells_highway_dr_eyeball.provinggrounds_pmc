@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Devils_Triangle">
+
+	<Key ID="STR_TB_missionTitle_TB_Devils_Triangle">
+		<Original>Devil's Triangle</Original>
+		<English>Devil's Triangle</English>
+		<German>Devil's Triangle</German>
+		<Italian>Devil's Triangle</Italian>
+		<Spanish>Devil's Triangle</Spanish>
+		<French>Devil's Triangle</French>
+		<Czech>Devil's Triangle</Czech>
+		<Russian>Devil's Triangle</Russian>
+		<Polish>Devil's Triangle</Polish>
+		<Hungarian>Devil's Triangle</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
